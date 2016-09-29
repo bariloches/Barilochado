@@ -1,4 +1,4 @@
-# medley
+# Credits
 Bariloche's repository for plug.dj;
 
 If you use something from this repository, leave credits.
