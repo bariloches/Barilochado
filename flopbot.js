@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "Flopzinha, a Bot",
       language: "portuguese",
-      chatLink: "https://rawgit.com/carlosney/basicBot/master/lang/pt-BR.json",
+      chatLink: "https://rawgit.com/bariloches/Barilochado/master/pt-BR.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 100, // 1-200
